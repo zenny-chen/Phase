@@ -9,12 +9,13 @@
 
 在物理学和数学中，某个实数变量 ***t*** 的一个周期函数 ***F*** 的**相位**（**phase**）是该变量在每个完整周期跨度内的相对值。 
 
-![Oscillating_sine_wave.gif](https://upload-images.jianshu.io/upload_images/8136508-b378609aad9f887b.gif?imageMogr2/auto-orient/strip)
+![Oscillating_sine_wave.gif](https://github.com/zenny-chen/Phase/blob/master/1.gif)
 
 相位一般表达为一个角度 *Φ*(*t*)，在这么一个尺度下，随着变量 *t* 经过每个周期，它会变化一整圈（并且 ***F***(*t*) 经过每个完整的周期）。从而，如果相位用角度来表达的话，那么当 *t* 增加了一个周期时，该相位就增加了360°。如果相位用弧度来表达的话，那么当 *t* 增加了一个周期时，该相位则增加了2π。
 
 这个约定特别适用于[正弦函数](https://en.wikipedia.org/wiki/Sine_wave)，因为对于任一参数t，该函数的值都可以表示为相位 *Φ*(*t*)  的正弦值乘以某个因子（作为正弦曲线的振幅）。依赖于对每个周期开始的位置，我们也可以用余弦来代替正弦。
 
-![sine-phase.png](https://upload-images.jianshu.io/upload_images/8136508-3d7ddc3b4ad17898.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![sine-phase.png](https://github.com/zenny-chen/Phase/blob/master/2.png)
 
 比如，假定有一个半径为R的圆，它以T作为旋转一圈的周期，匀速绕原点逆时针转动。圆周上的点则构成该圆在转动时所产生的正弦曲线。其中点S位置处于相位为0度的位置。在 t<sub>0</sub> 时刻，点F位置的相位则为θ，该点在所产生的正弦曲线上对应的振幅值则为：R * sin(θ)。
+
